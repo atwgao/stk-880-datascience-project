@@ -1,7 +1,7 @@
 stk-880-datascience-project
 ==============================
 
-LSTM project
+Neural net project
 
 Project Organization
 ------------
